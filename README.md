@@ -1,7 +1,9 @@
 # customer-cli-node
 
 npm i
-  setup mongodb on local invironment
+
+
+setup mongodb on local invironment
 
 # Terminal command 
 
